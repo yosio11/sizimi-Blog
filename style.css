@@ -1,3 +1,13 @@
+.st {
+  height:100%;
+  margin: 0px auto;
+  width:1300px;
+}
+.button_line001 {
+  height:100%;
+  margin: 0px auto;
+  width:1300px;
+}
 /* 全て共通 */
 * {
   box-sizing: border-box;
