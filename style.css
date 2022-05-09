@@ -108,3 +108,6 @@ margin:auto;
 .button_line001 a:hover:after {
     transform: scale(1, 1);
 }
+.st {
+  width:1300px;
+}
